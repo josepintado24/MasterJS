@@ -50,4 +50,4 @@ let getPostById = async (id) => {
         console.error(error)
     }
 }
-getPostById(-2)
+getPostById(2)
